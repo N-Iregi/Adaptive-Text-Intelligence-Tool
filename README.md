@@ -1,0 +1,1 @@
+# Adaptive-Text-Intelligence-Tool
